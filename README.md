@@ -13,5 +13,5 @@ Outside of my work I have two major areas of interest:
     - [`pytorch-pip-shim`](https://github.com/pmeier/pytorch-pip-shim): Next evolutional step after `light-the-torch`: invasive, but with a better UX. Install once and never worry again.
 
 - :speech_balloon: Ask me about: Python, PyTorch, Neural Style Transfer
-- :mailbox: How to reach me: Open an issue in this repository.
+- :mailbox: How to reach me: Open an [issue](https://github.com/pmeier/pmeier/issues) in my personal repository.
 - :smile: Pronouns: he/him/his
